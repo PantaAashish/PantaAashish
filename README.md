@@ -1,7 +1,6 @@
 ## こんにちは！
 
 - パンタ・アシスです
-- 東京情報大学　総合情報学科
 <!--
 **PantaAashish/PantaAashish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
