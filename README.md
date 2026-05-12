@@ -1,4 +1,6 @@
-## Hi there 👋
+## こんにちは！
+
+##　パンタ・アシスです
 
 <!--
 **PantaAashish/PantaAashish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
